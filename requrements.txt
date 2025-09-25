@@ -1,0 +1,10 @@
+torch
+torchvision
+tensorflow
+tensorflow-metal
+tensorflow-macos
+numpy
+pandas
+matplotlib
+seaborn
+scypy
